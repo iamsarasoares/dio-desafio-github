@@ -1,0 +1,7 @@
+## alguns códigos de navegação do git e suas funções
+
+**mkdir** - Cria pastas
+**dir, list, ls** - Para listar pastas
+**cd** - mudar de pasta
+**cd..** - volta uma pasta
+**rmdir,del** - apagar pasta
